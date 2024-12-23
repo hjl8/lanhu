@@ -1,0 +1,27 @@
+.top,
+body>.carousel,
+.footer {
+    background:linear-gradient(to right,#934BFF,#5F3AFC);
+}
+
+.carousel {
+    height: 441px;
+}
+
+.divider {
+    width: 110vw;
+    height: 200px;
+}
+
+.newProject .w>ul {
+    height:650px;
+}
+
+.globalProjects {
+    height: 588px;
+    background:linear-gradient(to right,#686bd8,#4d62d6);
+}
+
+.globalProjects h2 {
+    width: 500px;
+}
